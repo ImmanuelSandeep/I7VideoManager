@@ -7,3 +7,5 @@ A small-scale, fully functional desktop video track manager allows us to manage 
 1. If a video is available in 4K quality in English and in 144p in Telugu, we can extract the audio track from the Telugu video and insert it into the English video. We also have the option to replace the video in the English track.
 2. If a video contains multiple tracks, we can delete any unnecessary ones.
 3. We can clear the metadata associated with the video.
+
+<img width="1202" height="813" alt="image" src="https://github.com/user-attachments/assets/e3f6dfad-a079-4a86-b2ec-3b6489523805" />
